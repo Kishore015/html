@@ -1,0 +1,19 @@
+h1 {
+    color: brown;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 40px auto;
+}
+
+table, td, tr {
+    border: 5px solid brown;
+    border-collapse: collapse;
+}
+
+label, input, button {
+    display: block;
+    margin-bottom: 10px;
+}
