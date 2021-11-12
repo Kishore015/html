@@ -13,7 +13,7 @@ table, td, tr {
     border-collapse: collapse;
 }
 
-label, input, button {
+/* label, input, button {
     display: block;
     margin-bottom: 10px;
-}
+} */
