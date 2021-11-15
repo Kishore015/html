@@ -1,0 +1,28 @@
+/* * {
+    background-color: blue;
+    color: white;
+} */
+
+h1 {
+    color:red;
+}
+
+.heading-text {
+    font-size: 40px;
+}
+
+#styling-for-list {
+    font-size: 60px;
+}
+
+section {
+    background-color: pink;
+    text-align: center;
+}
+
+section img {
+    display: block;
+    margin:  0 auto;
+    height: 200px;
+}
+
